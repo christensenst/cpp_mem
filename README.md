@@ -15,12 +15,12 @@ analyze memory usage in c++
 
 1. Change directory to the directory with your program
 
-    `cd /opt/cpp_mem/concurrency`
+    `cd /opt/cpp_mem/basic`
 
 2. Compile the program with gcc and give it a proper name
 
-    `g++ -o basic_concurrency basic.cpp`
+    `g++ -o basic basic.cpp`
 
 3. Run the program and view the output
 
-    `./prog01`
+    `./basic`
