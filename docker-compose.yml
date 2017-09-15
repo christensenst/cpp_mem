@@ -1,0 +1,4 @@
+cpp_mem:
+  build: .
+  volumes:
+    - ./cpp_mem:/opt/cpp_mem
